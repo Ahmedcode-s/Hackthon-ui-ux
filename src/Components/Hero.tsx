@@ -1,5 +1,6 @@
 import Image from "next/image";
 
+
 export default function Hero() {
     return (
         <main className=" md:w-full w-full  h-[853px] md:h-[663px] flex flex-col md:flex-row justify-between  bg-[#F2F0F1] overflow-hidden    md:overflow-hidden max-w-screen-2xl mx-auto">
