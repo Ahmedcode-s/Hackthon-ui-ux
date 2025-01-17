@@ -18,8 +18,8 @@ export default function Header() {
                 <li className="space-x-10 flex items-center">
                     <Link href={"/"}><NavigationMenuDemo /></Link>
                     <Link href={""}>On Sale</Link>
-                    <Link href={"/Products"}>New Arrivals</Link>
-                    <Link href={"/casual"}>Brands</Link>
+                    <Link href={""}>New Arrivals</Link>
+                    <Link href={""}>Brands</Link>
                 </li>
             </ul>
 
