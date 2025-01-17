@@ -12,7 +12,7 @@ export default function Hero() {
                 </button>
             </div>
             {/* Right side  */}
-            <div className="relative w-full md:w-[1000px] md:h-[619px]  flex justify-start bg-red-500 md:mt-11">
+            <div className="relative w-full md:w-[1000px] md:h-[619px]  flex justify-start md:mt-11">
                 <Image src={"/model.jpeg"} className="w-full h-full md:h-[663px] md:w-[700px] pt-10  md:-mt-11 object-cover object-[50%_20%] " priority width={1440} height={663} alt="profile"></Image>
 
                 <Image src={"/star.png"} className=" w-[60px] md:w-[100px] absolute top-[25px] right-[20px] md:top-[50px] md:right-[75px]" width={104} height={104} alt="profile"></Image>
